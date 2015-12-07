@@ -1,1 +1,2 @@
 # MMS
+Membership Management System
